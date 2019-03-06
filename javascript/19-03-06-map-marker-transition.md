@@ -12,6 +12,8 @@ Read the blog to get stpes to make map marker transition
 [How to Move Marker Smoothly on Google Map using JavaScript](https://www.codexworld.com/google-map-move-marker-smoothly-javascript-api/)
 
 ## Example
+
+
 ```javascript
 var numDeltas = 100;
 var delay = 10 //milliseconds
