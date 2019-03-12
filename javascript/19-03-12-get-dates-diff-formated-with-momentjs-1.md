@@ -6,7 +6,7 @@ stacks:
     - momentjs
 ---
 
-If you need get a diff in `dateA` and `dateB` to display formated use like this:
+If do you need get a diff in `dateA` and `dateB` to display formated use like this:
 
 
 ```javascript
